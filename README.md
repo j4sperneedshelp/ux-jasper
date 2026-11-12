@@ -2,4 +2,4 @@
 
 ## UX Journals
 
-- [J01: Trying to Find Good Sheet Music](j01.md)
+- [j01: Trying to Find Good Sheet Music](j01.md)
